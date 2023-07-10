@@ -2,6 +2,8 @@
 
 ## Project Title: **Serpent Sweeper**
 
+### Team Leader: Patrick Arevalo (john_patrick_j_arevalo@dlsu.edu.ph)
+
 ### Theme: Goal 11: Sustainable Cities and Communities
 
 ### Description:

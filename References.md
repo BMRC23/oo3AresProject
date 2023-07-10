@@ -1,6 +1,0 @@
-# Intial References for Final Project Propoal
-- https://zetcode.com/javagames/snake/
-- https://www.geeksforgeeks.org/design-snake-game/
-- https://codereview.stackexchange.com/questions/257260/java-gui-snake-game
-- http://syllabus.cs.manchester.ac.uk/ugt/2018/COMP16212/LECTURE-NOTES/FOR-VIEWING/162-00-case-study-snake.pdf
-- https://sdgs.un.org/goals/goal11
